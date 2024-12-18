@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
   <defs>
-    <symbol id="icon-line" viewBox="0 0 512 32">
-      <path d="M0 0h512v32h-512v-32z"></path>
+    <symbol id="icon-burger" viewBox="0 0 57 32">
+      <path d="M0 0h56.889v3.556h-56.889v-3.556z"></path>
+      <path d="M0 14.222h56.889v3.556h-56.889v-3.556z"></path>
+      <path d="M0 28.444h56.889v3.556h-56.889v-3.556z"></path>
     </symbol>
     <symbol id="icon-quote-icon" viewBox="0 0 51 32">
       <path d="M0 32 13.268 0h11.317l-7.024 32H0zm25.106 0L38.374 0h11.317l-7.155 32H25.105z"/>

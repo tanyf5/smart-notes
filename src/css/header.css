@@ -48,8 +48,13 @@
   display: none;
 }
 
+.burger-btn {
+  background-color: transparent;
+  border: none;
+}
+
 .burger-icon {
-  fill: #EFECE6;
-  stroke: #080808;
+  stroke: #EFECE6;
+  fill: #080808;
 }
 
