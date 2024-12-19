@@ -15,7 +15,7 @@ body {
   font-style: normal;
   letter-spacing: -0.01em;
   background-color: #080808;
-  color: #FFFFFF;
+  color: #EFECE6;
   margin: 0 auto;
 }
 
@@ -66,12 +66,15 @@ img {
 
 
 
-/*<----------768px--------->*/
+/*<----------744px--------->*/
 
-.container {
-  max-width: 744px;
-  padding: 96px 48px;
+@media screen and (min-width: 744px) {
+  .container {
+    max-width: 744px;
+    padding: 96px 48px;
+  }
 }
+
 
 
 
@@ -79,7 +82,9 @@ img {
 
 /*<----------1440px--------->*/
 
-.container {
-  max-width: 1440px;
-  padding: 80px 96px;
+@media screen and (min-width: 1440px) {
+  .container {
+    max-width: 1440px;
+    padding: 80px 96px;
+  }
 }

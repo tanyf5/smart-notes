@@ -43,7 +43,7 @@
 }
 
 .logo-text {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 20px;
   letter-spacing: -0.02em;
   transition: color 0.1s cubic-bezier(0.42, 0, 1, 1);
@@ -72,9 +72,9 @@
 
 /* Mobile menu */
 
-.no-scroll {
+/*.no-scroll {
   overflow: hidden;
-}
+}*/
 
 .mobile-menu {
   display: none;
