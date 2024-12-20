@@ -103,7 +103,7 @@
     border-color: #EFECE6;
 }
 
-.hero-abstract-icon {
+.hero-icon {
     display: none;
 }
 
@@ -140,15 +140,15 @@
     .hero {
         display: flex;
         flex-direction: row;
-        justify-content: space-between;
         align-items: center;
+        gap: 100px;
     }
 
     .hero-wrapper {
         margin-left: 56px;
     }
 
-    .hero-abstract-icon {
+    .hero-icon {
         display: block;
         width: 363px;
         height: 483px;
